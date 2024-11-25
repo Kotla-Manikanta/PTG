@@ -2,3 +2,5 @@ list
 
 a=[10,20]
 print(a)
+a.append(55)
+print(a)
